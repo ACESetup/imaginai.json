@@ -2794,6 +2794,408 @@
   "name": "Autumn",
   "author": "Don7TK",
   "collections": "Bokeh"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape%20(1).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape%20(2).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape%20(3).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape%20(4).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Autumn%20(1).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Autumn%20(2).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Autumn%20(3).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Autumn%20(4).png",
+  "name": "Autumn",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Calm%20Lake%20(1).png",
+  "name": "Calm Lake",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Calm%20Lake%20(2).png",
+  "name": "Calm Lake",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Calm%20Lake%20(3).png",
+  "name": "Calm Lake",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Calm%20Lake%20(4).png",
+  "name": "Calm Lake",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_covered%20in%20Snow%20(1).png",
+  "name": "Snowy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_covered%20in%20Snow%20(2).png",
+  "name": "Snowy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_covered%20in%20Snow%20(3).png",
+  "name": "Snowy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_covered%20in%20Snow%20(4).png",
+  "name": "Snowy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(1).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(2).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(3).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(4).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(5).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(6).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(7).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Desert%20(8).png",
+  "name": "Desert",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(1).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(2).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(3).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(4).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(5).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(6).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(7).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Fog%20(8).png",
+  "name": "Foggy Landscape",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_full%20of%20Mist%20(1).png",
+  "name": "Mist",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_full%20of%20Mist%20(2).png",
+  "name": "Mist",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_full%20of%20Mist%20(3).png",
+  "name": "Mist",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_full%20of%20Mist%20(4).png",
+  "name": "Mist",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Mountain%20Peak%20(1).png",
+  "name": "Mountain Peaks",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Mountain%20Peak%20(2).png",
+  "name": "Mountain Peaks",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Mountain%20Peak%20(2).png",
+  "name": "Mountain Peaks",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Mountain%20Peak%20(4).png",
+  "name": "Mountain Peaks",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Sandy%20Beach%20(1).png",
+  "name": "Sandy Beach",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Sandy%20Beach%20(2).png",
+  "name": "Sandy Beach",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Sandy%20Beach%20(3).png",
+  "name": "Sandy Beach",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Sandy%20Beach%20(4).png",
+  "name": "Sandy Beach",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(1).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(2).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(3).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(3).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(4).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(5).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(7).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_landscape_Village%20(8).png",
+  "name": "Solitary House",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_Lush%20Green%20(1).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_Lush%20Green%20(2).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_Lush%20Green%20(3).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_Lush%20Green%20(4).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(1).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(2).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(3).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(4).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(5).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(6).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(7).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(8).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(9).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(10).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
+ },
+   {
+  "url": "https://raw.githubusercontent.com/ACESetup/imaginai.json/refs/heads/main/Minimalist_wallpaper_Night%20Sky%20(12).png",
+  "name": "Lush Green",
+  "author": "Don7TK",
+  "collections": "Minimalism"
  }
 ]
   
